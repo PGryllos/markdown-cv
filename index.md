@@ -1,8 +1,4 @@
 ---
-title: Document Center
----
-
----
 layout: cv
 title: Eliseo Papa's CV
 ---
