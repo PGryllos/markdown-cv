@@ -28,8 +28,7 @@ and managing database schemas according to desing constraints that pop up and fu
 utilizing DRF's functionallity for creating advanced filters and specific queries.
 I have also been building data manipulation and data visualization tools for the team
 and have taken a close look to many real-time time series classification techniques that
-fit for highly robust and scalable solutions. I also had the chance decide upon available
-NoSQL systems and set up parts of the company's infrastructure.
+fit for highly robust and scalable solutions. I also had the chance to decide upon available NoSQL systems and set up parts of the company's infrastructure.
 
 
 ## Education
@@ -42,7 +41,7 @@ __Computer Engineering & Informatics Department, University of Patras__
 __thesis topic:__ "Using Opinion Mining techniques in the scope of Link Prediction for Social Networks"
 (draft of my original [proposal](https://docs.google.com/document/d/1_mPtlCgdmH4BK8iOzWKZM0TDy_WJVt7X3KMa_xZhyHw/edit?usp=sharing))
 
-__interests:__ Data Mining, Algorithm Engineering, Data Science, Databases, Graph Analysis
+__interests:__ Data Mining, Algorithm Engineering, Data Science, Databases, Graph Analysis, Software Engineering
 
 `December 2015`
 __Practical Predictive Analytics: Models and Methods__
@@ -64,7 +63,7 @@ __Grand Challenge Performance Award__
 - `9th ACM international conference on Distributed Event-Based Systems`
 
 The DEBS Grand Challenge is an annual event in which participants are asked to provide the
-more efficient possible solutions to real-world problems in the area of event-based systems.
+more efficient possible solutions to real-world problems in the area of event-based systems. As part of a 4 member team, our submission achieved the best score among 17 university teams. We implemented our pipeline purely in low level C++ using custom data structures and data types.
 
 - [__problem description__](http://www.debs2015.org/call-grand-challenge.html), [__overview of the solutions__ ](http://dblp.uni-trier.de/db/conf/debs/debs2015.html),
 [__our solution that won the contest__](http://acropolis.cs.vu.nl/~spyros/www/papers/Pimp%20my%20Taxi%20Ride.pdf)
@@ -76,13 +75,16 @@ more efficient possible solutions to real-world problems in the area of event-ba
 - [__Interactive notebook__](https://github.com/PGryllos/SanFranciscoCrimeAnalysis/blob/master/report.ipynb) on Data Analysis and Visualizations of crime incident data from SFPD
 - [__Huffman dictionary, encoder and decoder__](https://github.com/PGryllos/nhuff) implemented in Matlab / Octave environment
 - [__Car-sharing API__](https://github.com/PGryllos/car_api) implementation using GeoDjango and PostGis for fast geospatial queries
-- [__Audio classification tool__](https://github.com/lOStres/JaFEM) that uses spatial indexing on time series
+- [__Audio classification tool__](https://github.com/lOStres/JaFEM) that uses spatial indexing on time series. Implemented in Python2.7
+- [__Graph Analysis Algorithms__](https://github.com/PGryllos/kruskal_strong_comp) implemented in C++ with STL, BOOST and LEDA
 
 ## skills / tools
 
 - Python, C++, Matlab, R
-- Linux, Git
+- Linux, Git, Vim
 - Pandas, Matplotlib, IPython, scikit-learn
+- Pig Latin, Azure Table Storage, PostgreSQL, SQL Server
+- Django, Django REST
 - __Languages:__ Greek (Native), English (working proficiency)
 
 
