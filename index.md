@@ -18,17 +18,22 @@ title:
 
 ## Currently
 
-`October 2015 - now`
+`Oct 2015 - now`
 
-- __Backend Developer, Data Analyst__ intern in [Factor-E Analytics](http://www.factor-e.eu)
+- __Data Engineer__ intern in [Factor-E Analytics](http://www.factor-e.eu)
 
-As part of the team, I have been dealing a lot with building RESTful api endpoints
-for the central module of the company's cloudbased infrastructure in Django Rest Framework, modifying
-and managing database schemas according to desing constraints that pop up and further
-utilizing DRF's functionallity for creating advanced filters and specific queries.
-I have also been building data manipulation and data visualization tools for the team
-and have taken a close look to many real-time time series classification techniques that
-fit for highly robust and scalable solutions. I also had the chance to decide upon available NoSQL systems and set up parts of the company's infrastructure.
+As part of the Factor-E team the past six months I have mostly dealt the following.
+
+Setting up of the NoSQL Data Infrastructure for storing and handling multiple streams of raw data.
+Design and implementation of back end pipelines for real time classification of time variant data.
+Design and implementation of back end pipelines for parallel processing of multiple streams of raw sensor data.
+Build data manipulation and data visualization tools that communicate directly with our backend data infrastructure.
+In depth literature review of many real-time timeseries classification techniques that fit for highly robust and scalable solutions.
+also
+build RESTful api endpoints for the central module of the company's cloudbased infrastructure in Django Rest Framework.
+Modify and manage database schemas according to desing constraints that popped up.
+Further utilize DRF's functionallity for creating advanced filters and specific queries.
+Most of my tasks involved me taking up the procedure from concept to production.
 
 
 ## Education
@@ -42,6 +47,11 @@ __thesis topic:__ "Using Opinion Mining techniques in the scope of Link Predicti
 (draft of my original [proposal](https://docs.google.com/document/d/1_mPtlCgdmH4BK8iOzWKZM0TDy_WJVt7X3KMa_xZhyHw/edit?usp=sharing))
 
 __interests:__ Data Mining, Algorithm Engineering, Data Science, Databases, Graph Analysis, Software Engineering
+
+`February 2016`
+__Communicating Data Science Results__
+
+- a MOOC from the __University of Washington__, offered through Coursera. [certificate](https://www.coursera.org/account/accomplishments/verify/GCXCRMC2TD95)
 
 `December 2015`
 __Practical Predictive Analytics: Models and Methods__
@@ -63,15 +73,19 @@ __Grand Challenge Performance Award__
 - `9th ACM international conference on Distributed Event-Based Systems`
 
 The DEBS Grand Challenge is an annual event in which participants are asked to provide the
-more efficient possible solutions to real-world problems in the area of event-based systems. As part of a 4 member team, our submission achieved the best score among 17 university teams. We implemented our pipeline purely in low level C++ using custom data structures and data types.
+more efficient possible solutions to real-world problems in the area of event-based systems. As part of a 4 member team, our submission achieved the best score among 17 university teams.
 
 - [__problem description__](http://www.debs2015.org/call-grand-challenge.html), [__overview of the solutions__ ](http://dblp.uni-trier.de/db/conf/debs/debs2015.html),
 [__our solution that won the contest__](http://acropolis.cs.vu.nl/~spyros/www/papers/Pimp%20my%20Taxi%20Ride.pdf)
 
 
-## recent assignments
+## recent project
+- [__Tweegraph__](https://github.com/PGryllos/tweegraph)
 
-- `In my github profile you can also find a few more, older programming assigments / experimental repositories`
+A python crawler built, around tweepy, to provide an interface for farming twitter relationships and give the abillity for regeneratation of representative parts of the twitter graph while efficiently handling the Twitter Api limits.
+
+## assignments
+
 - [__Interactive notebook__](https://github.com/PGryllos/SanFranciscoCrimeAnalysis/blob/master/report.ipynb) on Data Analysis and Visualizations of crime incident data from SFPD
 - [__Huffman dictionary, encoder and decoder__](https://github.com/PGryllos/nhuff) implemented in Matlab / Octave environment
 - [__Car-sharing API__](https://github.com/PGryllos/car_api) implementation using GeoDjango and PostGis for fast geospatial queries
@@ -80,11 +94,8 @@ more efficient possible solutions to real-world problems in the area of event-ba
 
 ## skills / tools
 
-- Python, C++, Matlab, R
-- Linux, Git, Vim
-- Pandas, Matplotlib, IPython, scikit-learn
-- Pig Latin, Azure Table Storage, PostgreSQL, SQL Server
-- Django, Django REST
+- Python, C++, Matlab, R, Linux, Git, Vim, Pandas, Matplotlib, IPython, scikit-learn
+- Pig Latin, Azure Table Storage, PostgreSQL, SQL Server, Django, Django REST
 - __Languages:__ Greek (Native), English (working proficiency)
 
 
