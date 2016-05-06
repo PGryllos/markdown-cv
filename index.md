@@ -7,7 +7,7 @@ title:
 
 <div id="webaddress">
 <a href="http://www.github.com/PGryllos">github/PGryllos</a>
-|  <a href="https://www.linkedin.com/in/prokopis-gryllos-0baa7ba3">linkedIn</a>
+|  <a href="https://www.linkedin.com/in/pgryllos">linkedIn</a>
 |  <a> skype: prokopis.grillos </a>
 </div>
 <div id="webaddress">
@@ -16,24 +16,22 @@ title:
 </div>
 
 
-## Currently
+## Experience
 
-`Oct 2015 - now`
+`April 2016 - Now`
 
-- __Data Engineer__ intern in [Factor-E Analytics](http://www.factor-e.eu)
+- __Data & Algorithm Engineer__ in [Factor-E Analytics](http://www.factor-e.eu)
 
-As part of the Factor-E team the past six months I have mostly dealt the following.
+`Oct 2015 - April 2016`
 
-Setting up of the NoSQL Data Infrastructure for storing and handling multiple streams of raw data.
-Design and implementation of back end pipelines for real time classification of time variant data.
-Design and implementation of back end pipelines for parallel processing of multiple streams of raw sensor data.
-Build data manipulation and data visualization tools that communicate directly with our backend data infrastructure.
-In depth literature review of many real-time timeseries classification techniques that fit for highly robust and scalable solutions.
-also
-build RESTful api endpoints for the central module of the company's cloudbased infrastructure in Django Rest Framework.
-Modify and manage database schemas according to desing constraints that popped up.
-Further utilize DRF's functionallity for creating advanced filters and specific queries.
-Most of my tasks involved me taking up the procedure from concept to production.
+- __Backend Dev, Data Engineer__ intern in [Factor-E Analytics](http://www.factor-e.eu)
+
+Machine Learning for timeseries classification. Design and implementation of back end pipelines for 
+real time processing of multiple streams of raw sensor data. Data manipulation and visualization tools.
+Setting up of the company's NoSQL Data Infrastructure. In depth literature review of many real-time
+timeseries classification techniques that fit for highly robust and scalable solutions. Building of
+RESTful api endpoints for the central module of the company's cloudbased infrastructure in Django Rest Framework.
+Dynamic programming using state of the art techniques for on-line pattern identification on electric signals.
 
 
 ## Education
@@ -41,12 +39,12 @@ Most of my tasks involved me taking up the procedure from concept to production.
 `2010 - 2016`
 __Computer Engineering & Informatics Department, University of Patras__
 
-- Combined B.Sc & M.Sc. Expected graduation: June 2016
+- B.Sc & M.Sc. Expected graduation: June 2016
 
-__thesis topic:__ "Using Opinion Mining techniques in the scope of Link Prediction for Social Networks"
-(draft of my original [proposal](https://docs.google.com/document/d/1_mPtlCgdmH4BK8iOzWKZM0TDy_WJVt7X3KMa_xZhyHw/edit?usp=sharing))
+__thesis topic:__ "Sentiment Analysis in the scope of Link Prediction for Social Networks"
+([draft](https://docs.google.com/document/d/1_mPtlCgdmH4BK8iOzWKZM0TDy_WJVt7X3KMa_xZhyHw/edit?usp=sharing))
 
-__interests:__ Data Mining, Algorithm Engineering, Data Science, Databases, Graph Analysis, Software Engineering
+__interests:__ Data Mining, Machine Learning, Algorithm Engineering, Social Network Analysis, Databases, Software Engineering
 
 `February 2016`
 __Communicating Data Science Results__
@@ -80,7 +78,7 @@ more efficient possible solutions to real-world problems in the area of event-ba
 
 
 ## recent project
-- [__Tweegraph__](https://github.com/PGryllos/tweegraph)
+- [__tweegraph__](https://github.com/PGryllos/tweegraph)
 
 A python crawler built, around tweepy, to provide an interface for farming twitter relationships and give the abillity for regeneratation of representative parts of the twitter graph while efficiently handling the Twitter Api limits.
 
@@ -94,7 +92,7 @@ A python crawler built, around tweepy, to provide an interface for farming twitt
 
 ## skills / tools
 
-- Python, C++, Matlab, R, Linux, Git, Vim, Pandas, Matplotlib, IPython, scikit-learn
+- Python, Cython, C++, Matlab, R, Linux, Git, Vim, Numpy, Scipy, Pandas, Scikit-Learn, Matplotlib, IPython
 - Pig Latin, Azure Table Storage, PostgreSQL, SQL Server, Django, Django REST
 - __Languages:__ Greek (Native), English (working proficiency)
 
