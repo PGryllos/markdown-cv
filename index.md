@@ -98,7 +98,7 @@ __Communicating Data Science Results__
 
 [__tweegraph__](https://github.com/PGryllos/tweegraph) A tool built around tweepy to provide a managed way for crawling twitter relationships and timelines. The package also provides sentiment analysis functionality.
 
-[__word_similarity__](https://github.com/PGryllos/word_similarity) A prototype to showcase how simple Machine Learning can substitute conventional dynamic programming.
+[__word_similarity__](https://github.com/PGryllos/word_similarity) A prototype to showcase how simple ML can substitute conventional dynamic programming.
 
 [__Interactive notebook__](https://github.com/PGryllos/SanFranciscoCrimeAnalysis/blob/master/report.ipynb) Data Analysis and Visualizations of crime incident data from SFPD
 
