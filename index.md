@@ -19,7 +19,7 @@ title:
 
 Soon to be Graduate software engineer. Previously, I have worked on real time classification of sensor data; engineering the infrastructure, the ML and the algorithms behind it and now I am working in a Big Data startup in Cologne. My responsibilities here are mostly affiliated with coding infrastructural and architectural changes and containerizing functionality. Right before I came here I worked intensively for a couple of months on a paper that resulted from the experiments conducted for my graduate thesis, related to Social Network Analysis and Opinion Mining. In the past I also participated in a publication that resulted from winning ACM's DEBS Grand challenge in 2015.
 
-Right now I am interested in mastering cloud and big scale technologies. I care deeply about good use of programming principles and want to be on the forefront observing every paradigm swift. 
+Right now I am interested in mastering cloud and big scale technologies. I care deeply about good use of programming principles and want to be on the forefront observing every paradigm shift. 
 
 ## Education
 
