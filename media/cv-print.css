@@ -56,7 +56,7 @@ body {
 	font-size: 80%;
 	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Verdana,sans-serif;
+	font-family: Garamond; /*, Verdana,sans-serif;*/
 	margin-top: 1em;
 	margin-left: 0.1em;
 }
@@ -73,10 +73,10 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 90%;
+	font-size: 100%;
 	line-height: 1em;
-	font-family: Menlo,monospace,sans-serif;
-	color: #ccc;
+	font-family: calibril;/*Menlo,monospace,sans-serif;*/
+	color: #1C3B5E;
 }
 
 p code {
@@ -87,7 +87,7 @@ p code {
 
 ul { 
 	position: relative;
-	left: 28%;
+	left: 33%;
 	width: 65%;
 	margin-bottom: 1em;
 	/*margin-top: -0.5em;*/
@@ -116,13 +116,13 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Cousine,Verdana,sans-serif;
+	/*font-family: Cousine,Verdana,sans-serif;*/
 	width: 65%;
 }
 
 h1 {
 	text-align: left;
-	font-size: 2em;
+	font-size: 3em;
 	line-height: 1em;
 	position: relative;
 	left: 28%;
@@ -136,12 +136,13 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #0A3920;
-	margin-top: 0.5em;
+    font: Garamond,
+	color: #1C3B5E;
+	margin-top: 1em;
 	position: relative;
-	top: 1.2em;
+	top: 1.4em;
 	text-align: right;
-	width: 18%;
+	width: 20%;
 }
 
 h2+p {
