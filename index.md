@@ -46,7 +46,7 @@ As part of a 4 member team, our submission achieved the best score among 17 univ
 ## Experience
 
 `Sept 2016 - present`
-__Software Engineer__ at [fedger.io](http://fedger.io/).
+__Software Engineer__ at [fedger.io](http://fedger.io/)
 
 In fedger.io I am responsible for designing and implementing new modules to run on our cloud infrastructure as well as improving old ones and taking care of their deployment and continuous integration. We mostly use Python3.5 and shell scripting and deploy everything in Docker containers that get orchestrated by Rancher. For the CI we use Drone and most of our cloud functionalities are handled with use of aws S3 and SQS.
 
